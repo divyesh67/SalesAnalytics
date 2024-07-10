@@ -1,6 +1,11 @@
 Project Overview
 This project involves creating a Power BI dashboard using data from a MySQL database. The dashboard provides insights into revenue, sales quantity by markets, revenue trends, top customers, and top products.
-![image](https://github.com/divyesh67/SalesAnalytics/assets/80839172/ed038d7f-d813-4747-b74c-b01de063fa4a)
+
+
+![image](https://github.com/divyesh67/SalesAnalytics/assets/80839172/87f9f912-deec-4113-8e2a-9263adc4391d)
+
+
+
 Step-by-Step Process
 Import SQL File into MySQL Database
 
